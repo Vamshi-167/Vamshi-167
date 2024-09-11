@@ -2,6 +2,6 @@
 - 👀 I’m interested in data analytics, machine learning, and business analysis.
 - 🌱 I’m currently learning advanced data visualization techniques and cloud computing with AWS and Azure.
 - 💞️ I’m looking to collaborate on projects related to data-driven decision-making, predictive modeling, and business process optimization.
-- 📫 How to reach me: [ksaivamsshi777@gmail.com](mailto:ksaivamsshi777@gmail.com) or connect with me on [LinkedIn](#) (Add your LinkedIn URL here).
+- 📫 How to reach me: [ksaivamsshi777@gmail.com](mailto:ksaivamsshi777@gmail.com) or connect with me on [LinkedIn](#) https://www.linkedin.com/in/sai-vamshi-ksheersagar-104698232/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new data visualization tools and turning complex data into meaningful insights that drive business success!
