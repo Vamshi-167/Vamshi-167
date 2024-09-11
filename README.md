@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Vamshi-167 (Sai Vamshi Ksheersagar)
+- 👀 I’m interested in data analytics, machine learning, and business analysis.
+- 🌱 I’m currently learning advanced data visualization techniques and cloud computing with AWS and Azure.
+- 💞️ I’m looking to collaborate on projects related to data-driven decision-making, predictive modeling, and business process optimization.
+- 📫 How to reach me: [ksaivamsshi777@gmail.com](mailto:ksaivamsshi777@gmail.com) or connect with me on [LinkedIn](#) (Add your LinkedIn URL here).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love exploring new data visualization tools and turning complex data into meaningful insights that drive business success!
